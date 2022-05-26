@@ -1,0 +1,39 @@
+.livro{
+  margin-top: -13px;
+}
+
+.formulario{
+  margin-top: 10%;
+  position: absolute;
+  color:#7a4343;
+  margin-left: 60%;
+  top: 100px;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 35px;
+  
+}
+
+.cadastrarautor{
+ margin-top: 55%;
+  position: absolute;
+  
+  margin-left: 28%;
+  top: 100px;
+  border-radius: 16px;
+  color: #FFFFFF;
+  font-weight: bold;
+  background-color: #6B4343;
+  padding: 7px 36px;
+  transition-duration: 0.4s;
+}
+
+.box2{
+  background-color: #ededed;
+ font-family: optima;
+  border-radius: 12px;
+  width: 400px;
+height: 26px;
+ border-width:1px;
+border-color: #624141;
+}

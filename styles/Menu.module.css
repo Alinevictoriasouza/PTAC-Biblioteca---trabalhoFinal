@@ -1,0 +1,44 @@
+.cabecalho{
+  border-bottom: var(--border-menu); 
+  height: 100px;
+  width: 100%;
+  color: #7a5757;
+  font-size: 16px;  
+}
+
+/*.barra{
+   
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 17px;
+  color: #EEEDE7;
+}
+
+/*.itemMenu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+/*   flex: 1; */
+  /*background: #c2c1c6;
+  margin: 0 15px;
+  padding: 1rem 45px;
+}*/
+
+.text{ 
+  float: right;
+   margin-top: 50px;
+  margin-right: 50px;
+  font-weight: bold;
+
+}
+
+.barrasec{
+  display: flex;
+  background-color: #d8d5d5;
+  height: 1px;
+  width: 100%;
+}
+
+
